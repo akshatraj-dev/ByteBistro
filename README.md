@@ -9,7 +9,7 @@ ByteBistro is a modern, responsive food delivery platform and kitchen management
 - **Localized Pricing:** Full Indian Rupee (₹) pricing structure with standard 5% GST and delivery fees.
 - **Cart & Simulated Checkout:** Slide-out drawer with real-time total calculations, delivery address capture, and simulated payment gateway.
 ## APP Preview 
-![ByteBistro Customer Front ](Screenshot(10).png)(Screenshot(11).png)
+![ByteBistro Customer Front ](Screenshot (10).png)
 
 
 ### 2. Live Restaurant Dashboard
@@ -18,7 +18,7 @@ ByteBistro is a modern, responsive food delivery platform and kitchen management
 - **Inventory Tracking:** Live stock meters with automated low-stock warnings.
 - **Data Persistence:** LocalStorage state syncing ensures orders placed on the storefront immediately update the kitchen dashboard without server latency.
 ## App Preview
-![ByteBistro Restaurant dashboard](Screenshot(13).png)
+![ByteBistro Restaurant dashboard](Screenshot (13).png)
 
 
 ## Getting Started Locally
